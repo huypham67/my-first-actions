@@ -1,0 +1,7 @@
+{
+  "name": "my-first-actions",
+  "version": "1.0.0",
+  "scripts": {
+    "test": "node test/index.test.js"
+  }
+}
